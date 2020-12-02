@@ -10,7 +10,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <jetty.version>9.4.27.v20200227</jetty.version>
+        <jetty.version>9.4.35.v20201120</jetty.version>
         <sl4j-api-version>1.7.7</sl4j-api-version>
     </properties>
     <dependencies>
